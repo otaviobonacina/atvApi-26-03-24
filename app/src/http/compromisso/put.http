@@ -1,0 +1,6 @@
+PUT https://8080-otaviobonac-atvapi26032-rubd3qqb861.ws-us110.gitpod.io/compromissos/2
+Content-Type: application/json
+
+{
+    "nome": "Atualizado"
+}
