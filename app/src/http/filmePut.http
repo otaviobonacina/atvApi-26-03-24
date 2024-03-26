@@ -1,0 +1,7 @@
+PUT https://8080-marcoweb-apidata2024030-rwnmqbzumt3.ws-us108.gitpod.io/filmes/1
+Content-Type: application/json
+
+{
+    "titulo": "Teste Novo",
+    "sinopse": "Teste de PUT sss"
+}

@@ -1,0 +1,6 @@
+PUT https://8080-marcoweb-apidata2024030-1q4rejtpkdq.ws-us108.gitpod.io/diretores/3
+Content-Type: application/json
+
+{
+    "nome": "Atualizado"
+}
